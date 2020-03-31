@@ -26,5 +26,6 @@ end
      @status = "rejected"
      "Transaction rejected. Please check your account balance."
    end
+   @status = "reversed"
  end
 end
