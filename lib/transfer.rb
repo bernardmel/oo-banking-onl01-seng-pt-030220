@@ -30,7 +30,7 @@ end
       @status = "complete"
     end
   end
-
+end
   end
 
 end
