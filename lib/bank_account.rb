@@ -7,6 +7,6 @@ class BankAccount
       @name = name
       @balance = 1000
       @status = "open"
-      @deposit = depsosit
+      @deposit = deposit
     end
 end
